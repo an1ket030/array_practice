@@ -1,3 +1,5 @@
+//Left rotate an array by d places
+
 class Solution {
   public:
     void leftRotate(vector<int>& arr, int d) {
